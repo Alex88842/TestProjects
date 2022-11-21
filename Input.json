@@ -1,0 +1,10 @@
+{
+  "criterias": [
+    {"lastName": "Иванов"},
+    {"productName": "Молоко", "minTimes": 1},
+    {"minExpenses": 50, "maxExpenses": 200},
+    {"badUsers": 2},
+    {"lastName": "Петров"},
+    {"badUsers": 3}
+  ]
+}
